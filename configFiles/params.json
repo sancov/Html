@@ -1,0 +1,20 @@
+[
+  {
+    "searchColumn": 0,
+    "searchText": "Island Trading",
+    "returnColumnText": 2,
+    "expectedText": "UK"
+  },
+  {
+    "searchColumn": 1,
+    "searchText": "Francisco Chang",
+    "returnColumnText": 2,
+    "expectedText": "Mexico"
+  },
+  {
+    "searchColumn": 2,
+    "searchText": "UK",
+    "returnColumnText": 1,
+    "expectedText": "Helen Bennett"
+  }
+]
